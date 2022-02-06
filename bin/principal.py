@@ -9,3 +9,4 @@ import src
 # from src.base import func1
 
 src.func1()
+src.df_printer()
